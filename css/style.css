@@ -1,0 +1,13 @@
+/* Criação da classe center com a instrução de alinhamento no centro */
+.center{
+    text-align: center;
+}
+.size-img{
+    width: 10%;
+}
+.bg{
+    background-color: midnightblue;
+}
+.txtcolor{
+   color:honeydew;
+}
